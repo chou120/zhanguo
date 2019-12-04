@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a7b96f5-0c7a-44c8-8d56-dadf220d4920" name="Default Changelist" comment="" />
+    <list default="true" id="4a7b96f5-0c7a-44c8-8d56-dadf220d4920" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOop2/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOop2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOop2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOop2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOop2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOop2/JavaOop2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOop2/src/com/banyuan/homework/extend/ExtendsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOop2/src/com/banyuan/homework/extend/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOop2/src/com/banyuan/homework/extend/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOop2/src/com/banyuan/homework/extend2/Fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOop2/src/com/banyuan/homework/extend2/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOop2/src/com/banyuan/homework/extend2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOop2/src/com/banyuan/homework/staticDemo/StaticDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOop2/src/com/banyuan/homework/staticDemo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaOop2/src/com/banyuan/homework/staticDemo/Tool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaOop3Extend/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaOop3Extend/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaOop3Extend/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaOop3Extend/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaOop3Extend/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaOop3Extend/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaOop3Extend/javaOop3Extend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaOop3Extend/src/com/banyuan/demo/ExtendDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaOop3Extend/src/com/banyuan/demo/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaOop3Extend/src/com/banyuan/demo/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First" beforeDir="false" afterPath="$PROJECT_DIR$/../First" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaOop/src/com/banyuan/oop1/oop2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaOop/src/com/banyuan/oop1/oop2/Person.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +45,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1UCLGhw4S2FpGl2h4nAdFP79omr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -68,10 +102,22 @@
       <option name="presentableId" value="Default" />
       <updated>1574855536576</updated>
       <workItem from="1574855537826" duration="6222000" />
+      <workItem from="1575421342798" duration="667000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

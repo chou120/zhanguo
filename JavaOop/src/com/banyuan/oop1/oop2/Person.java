@@ -4,8 +4,7 @@ public class Person {
 
 
     //标准封装类
-
-    private   String name;
+    private  String name;
     private   int age;
 
     /*
