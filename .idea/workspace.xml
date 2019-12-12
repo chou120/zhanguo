@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef3413e6-962e-466f-966a-92b57f011edd" name="Default Changelist" comment="" />
+    <list default="true" id="ef3413e6-962e-466f-966a-92b57f011edd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/javabasic" beforeDir="false" afterPath="$PROJECT_DIR$/javabasic" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,10 +47,22 @@
       <workItem from="1574855419980" duration="139000" />
       <workItem from="1574993510135" duration="1000" />
       <workItem from="1574993631828" duration="3000" />
+      <workItem from="1576117239300" duration="210000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
