@@ -1,0 +1,25 @@
+// Decompiled by Jad v1.5.8g. Copyright 2001 Pavel Kouznetsov.
+// Jad home page: http://www.kpdus.com/jad.html
+// Decompiler options: packimports(3) 
+// Source File Name:   Demo.java
+
+package com.banyuan.cn;
+
+import java.io.PrintStream;
+
+public class Demo
+{
+
+    public Demo()
+    {
+    }
+
+    public static void main(String args[])
+    {
+        String str1 = "h";
+        String str2 = (new StringBuilder()).append(str1).append("hkh").toString();
+        String str3 = "t";
+        String str4 = (new StringBuilder()).append("tgt").append(str3).toString();
+        System.out.println();
+    }
+}
