@@ -1,6 +1,6 @@
 package com.banyuan.oop1;
 
-public class Demo1 {
+public class  Demo1 {
 
     /**
      *  吃饭： 买菜--->洗菜--->切菜--->炒菜-->调料--->出锅

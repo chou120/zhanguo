@@ -14,14 +14,18 @@ public class Car {
     private  String  mader;
 
     public Car() {
+
+
     }
 
     public Car(String carType, String carName, String color, String date, String mader) {
+
         this.carType = carType;
         this.carName = carName;
         this.color = color;
         this.date = date;
         this.mader = mader;
+
     }
 
     public String getCarType() {

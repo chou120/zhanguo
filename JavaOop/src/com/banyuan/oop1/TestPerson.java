@@ -35,7 +35,21 @@ public class TestPerson {
 
         System.out.println(p.getAge());
 
+//
+//        int [] arr=new int[5];   //
+           int [] arr2=new int[]{123,1231,4123};
+//        int [] ra={1231,213123123,1,312,3,123,12,312,3,1,31,3,12,312,31,23,1};
 
+//          int[][] ar=new int[5][];
+//          ar[0]=new int[12];
+//          ar[1]=new int[14];
+//
+//
+//        int [][] a=new int[][]{{12,3},{231,1231,123,123141},{4,2},{1}};
+
+
+
+        String  str="";
 
 
     }

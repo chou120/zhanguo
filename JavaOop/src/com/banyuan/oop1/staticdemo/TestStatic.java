@@ -1,6 +1,6 @@
 package com.banyuan.oop1.staticdemo;
 
-public class TestStatic {
+public class  TestStatic {
 
     public static void main(String[] args) {
 //        Person  p=new Person();

@@ -12,6 +12,7 @@ public class Person {
      * @param age
      */
     public  Person(){  //无参构造器
+
         System.out.println("无参构造器创建对象了...");
     }
 

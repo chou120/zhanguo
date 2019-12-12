@@ -1,6 +1,6 @@
 package com.banyuan.oop1;
 
-public class Person {
+public class  Person {
 
     //只要对象一旦创建 类里面的属性就属于堆内存的
     //姓名

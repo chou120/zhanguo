@@ -1,6 +1,6 @@
 package com.banyuan.oop1.staticdemo;
 
-public class Person {
+public class   Person {
 
 //
 //    {
